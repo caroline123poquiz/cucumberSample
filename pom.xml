@@ -7,9 +7,9 @@
 
 
 
-	<groupId>CucumberTesting</groupId>
+	<groupId>aardviser-cucumbertest</groupId>
 
-	<artifactId>cucumbertesting</artifactId>
+	<artifactId>aardviser-cucumbertest</artifactId>
 
 	<version>0.0.1-SNAPSHOT</version>
 

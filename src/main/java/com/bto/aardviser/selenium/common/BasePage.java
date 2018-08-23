@@ -11,6 +11,7 @@ public class BasePage {
 	protected void loadDriver() {
 		ClassLoader classLoader = getClass().getClassLoader();
 		File file = new File(classLoader.getResource("driver/chromedriver").getFile());
+		System.out.println("WEB DRIVER PATH:" + file.getAbsolutePath());
 		System.setProperty("webdriver.chrome.driver",file.getAbsolutePath());
 		driver = new ChromeDriver();
 	}
