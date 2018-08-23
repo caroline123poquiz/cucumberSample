@@ -1,0 +1,5 @@
+com/bto/aardviser/selenium/common/CommonElementPages.class
+com/bto/aardviser/selenium/useractions/Page_GoogleHomepage.class
+com/bto/aardviser/selenium/element/pages/LoginElementPage.class
+com/bto/aardviser/selenium/stepdefinitions/StepDefs_GoogleHomepage.class
+com/bto/aardviser/selenium/common/BasePage.class
